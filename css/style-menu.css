@@ -1,0 +1,18 @@
+@keyframes pulse {
+}
+
+.animated {
+  animation-play-state: running !important;
+}
+
+#horizontalMenu {
+  display: none;
+}
+
+#verticalMenu {
+  display: block;
+}
+
+#menuButton {
+  display: flex;
+}
