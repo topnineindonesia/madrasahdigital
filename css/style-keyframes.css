@@ -1,0 +1,1988 @@
+@keyframes rise-RIGHT-b800b590-b16e-4f5b-bad2-c7f3ff382bb5 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-63c1e017-a488-4ce7-93d3-4a14f933dc24 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-0a191319-7697-40ea-9f7f-bffe5ed679fb {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-c31bb757-1155-4749-9c1d-ed5b426b6a43 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-a2fdb1c1-3a35-49e0-9314-25bf1e2a2c9b {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-043fd11c-2601-4c11-bc76-46064687170f {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-LEFT-51b2e8aa-f7bc-4525-8058-e60d49e34a90 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-d174511a-f19f-493d-b8cc-881ee3f9cc4e {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-LEFT-b63c9038-2ced-40eb-aa6a-c551bbc43ae4 {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-71d2549c-6aa0-49ad-b8cd-9a5221343b64 {
+  0% {
+    transform: translate(0px, -80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-2227a7a4-2d8e-441a-bcb4-7d6fa0b7abe4 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-4fbe3992-d8cc-40c8-82db-624bf43fe3b7 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-6d2ab3fe-829d-4aea-bfd2-f66185e0d701 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-59b7b604-2f64-4d93-bcdd-d6caab95de75 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-97a52dfa-32a5-4fd9-a196-404d227e0660 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes fade-LEFT-1113331a-bdf6-4e1d-a79d-eb5020f69a5f {
+  0% {
+    opacity: 0;
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes baseline-LEFT-80314207-16a2-493b-a913-bf8574d68aad {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-b9203d98-6204-4f74-b604-98102de3429d {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes breathe-LEFT-bc845639-96e1-4433-8a62-adc2946f0a93 {
+  0% {
+    transform: scale(0.8);
+    animation-timing-function: linear;
+  }
+
+  50% {
+    transform: scale(0.97);
+    animation-timing-function: linear;
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-d9d2ebbe-ff92-42a8-bbe0-09d86eb2cdef {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-95cca68f-1326-45af-a9a3-5f29829993c0 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-d0b5d58c-6f04-4f5a-a0db-8396ddbbedbf {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-9dfa55d8-1819-4532-98bc-1942e63ab764 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-70100721-8360-4372-a480-42c5e444a28f {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-2ee2b00c-5f48-4b29-830c-8be07b9e5260 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-364ea299-3b18-4d47-8a68-76a80905930d {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-LEFT-155dce06-92de-4ae3-9fa0-871581ac66a2 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pan-LEFT-7ad058ae-6acc-4dfa-bee3-006c5b07097b {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-8d8e36a8-ab6b-4abd-9960-0617bbce975b {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-6cb3d0ab-11e0-4c40-9dd8-a91410702167 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-a3cada45-4a96-4003-b61b-ae084b6c7031 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-6e318fae-45cd-42b1-98e9-a5f038e342b6 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pop-RIGHT-8cb5b995-b9e1-4484-a29d-cba1a881c776 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-1c5a859d-85e6-43d8-b313-b4b7b7791093 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-f204d9e4-f339-450a-9dda-bc243819f352 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-LEFT-d15b55f7-6d9c-4bb5-8899-6f2f014e0981 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pop-LEFT-53ad1d2e-6951-4012-b01d-bc023747240b {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-d85aadd0-1500-43d8-ace9-1f2cf9ec8ff1 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-537c7861-5f1e-4c8f-8b1b-294116fd7d64 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-d6e9ad73-11ae-4e6d-a1da-eecd3b54b258 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-cefb3128-3fc5-45cc-959d-f76df06d0593 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-e9a7e4e0-db23-4f32-96f7-d6c0b174599f {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-bd8cb800-9dbb-4aa3-a104-f3a291a9c44a {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pop-RIGHT-0355ffc9-6d41-48ba-a1db-6d5b811a4eb5 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-b80fafba-9ee1-4793-be6f-5cd3431d87d9 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes tectonic-LEFT-aea31ee0-bc04-43f7-805a-69ea4f564b7d {
+  0% {
+    transform: translateX(calc(-0.16666666666666666 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  50% {
+    transform: translateX(calc(0.08333333333333333 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-add06136-bd04-418c-8d63-f02d14f5c758 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes tectonic-RIGHT-5b496266-f7df-4861-baea-2b96137f6755 {
+  0% {
+    transform: translateX(calc(0.16666666666666666 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  50% {
+    transform: translateX(calc(-0.08333333333333333 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-1de33a50-101a-41fc-a70d-18f8395217b0 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-bfb0fa0a-fc5f-456f-89d2-0b2660cb9923 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pop-RIGHT-f7192d01-b003-45cb-b730-9e4aa645300a {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-68dc0d4b-acfe-40d2-b3d7-731a02fe5d30 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes fade-LEFT-43ecef00-8161-4ca3-a927-873b03139beb {
+  0% {
+    opacity: 0;
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes rise-RIGHT-c5fe4af6-1e6a-4405-8d82-015b33c07928 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-85d3b56b-04bc-4b24-8dd8-36b4077aadfd {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-c1bfc8ef-ce97-432e-9d76-8efac27cc6a0 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-d97fd81a-3747-454d-abec-b5ff849e292b {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-LEFT-69f3eab4-7a91-4ab6-9b3e-ce0394e6419d {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-91a98c2d-5786-43df-9040-bbfc3d77cb46 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-b4d8d531-3873-4e49-991d-0a462345a04d {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-629a6f05-acc3-4065-8cc4-422f259682a3 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes fade-LEFT-bd9159f2-57d5-4f76-82e4-78b9fd26d988 {
+  0% {
+    opacity: 0;
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes baseline-LEFT-616bbe7c-6c54-4340-8056-e3981847b67a {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-24b49ea2-fa9e-42fc-8ad6-1b40e459825e {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-LEFT-732d5e41-5327-452c-a522-77e8ce79ff0f {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-aaf164cb-923b-4543-a72f-36bae21fbc0a {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-1a3f1c5a-4b8f-4976-ac5a-4dfcaf80097b {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-8c7405d2-29a9-426a-989a-c5ae2241ae91 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-f56add94-ab92-495f-a84e-38d29532d8c8 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-0f1b7ca8-44f5-4aa5-9681-9c583b075229 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes tectonic-RIGHT-9638fcae-37e1-4e91-ac0b-f7fcaf648364 {
+  0% {
+    transform: translateX(calc(0.16666666666666666 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  50% {
+    transform: translateX(calc(-0.08333333333333333 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-ac7c1e95-6664-4a91-af37-1e1d7ac3ecb2 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-050b1d14-5e6a-4459-b6fa-93f457e8b558 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-43ed6f4e-c82b-4eb6-9dd0-790d30ca6144 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-ccb5417d-c42c-442d-b2f6-0b20ee47b00e {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-f466f8ab-fe41-4d28-8a5f-abd7f82548e0 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-cb0fe0c6-2500-4902-9abe-183cb9bbf91a {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-7ceb000f-95df-4321-9e31-fd223a2f0f85 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-24e8f98a-6a64-4f11-9bfd-0674fecc1fca {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-b65bd57c-16fb-41bc-8c13-598ea7c2b398 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-5d083faa-04fc-4c1a-a740-e1232ff47817 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-97142268-fabd-42ed-9d37-789371049e10 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-29c51e0e-740a-4ec7-bedf-5f9b83b420d6 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-b0228b33-2a06-434b-93d6-06e38febb4d8 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-LEFT-15476292-dd58-4dd5-91a5-129e0fbfd63f {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-03b8ef90-ea1f-4c4e-b095-cef0c757b453 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-be6e93d8-2925-4031-8405-5dd01ed4ea2f {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-52e5c0fe-95b4-42ce-b400-717d012e0be1 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-af8a6e67-bb41-4261-9ce5-95e17e547a59 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-cda1cdd7-6328-4124-8cae-87db875cca77 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-bc3ee473-6987-4f8c-b434-726a382ab40d {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-4bd5a71b-4c2e-4265-8771-accfe23ec8b8 {
+  0% {
+    transform: translate(0px, -80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-2dd4cd87-2dc6-455e-9451-4f18f1a659a4 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes linear_fade {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes baseline-RIGHT-f004978c-f0d8-4931-bc44-fada647a4594 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-RIGHT-ccf5b09f-ed89-4f13-bd9c-186634d3b915 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-6f0c4df3-8a8c-4957-96d6-c4c9ec4389de {
+  0% {
+    transform: translate(0px, -80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-5f2c726e-56eb-49f6-974e-e701c77f5eb0 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-7e2538f1-dc95-4f64-9cdd-58996235f87e {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-37232f57-6eab-4d12-a18a-0df121e9143b {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-10643f7d-bc15-49b9-9abf-2f61a57fadbd {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-244cfaf5-d095-4c0f-b3fe-914a3f527720 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-8e644cca-148a-4209-9554-f26fe99c0650 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-126339a4-008c-4a0e-ad19-df22a1c8b7de {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-a8bd7b32-e8de-4f0e-9ef3-3d7fde3fdc2a {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-e1f77a78-a87d-4f80-bb26-9f309a6f9827 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-4b609cbe-fcd3-4026-a58b-3e6fc9297591 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-c4ba456c-33cf-4730-af24-3abf4064042e {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-LEFT-a07a4316-e5c4-44eb-b842-37934756c011 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-a858ecee-97a7-4fb1-94d5-df6f6bc9f303 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-c691d12d-23fb-409e-96ce-f5512acc75bc {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-a8cfa614-bc33-47a2-915e-c266329b5f56 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-c598e88d-04a4-46f1-ba06-78c1bcda9bf9 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes tectonic-RIGHT-9d0e6070-7ae4-4a35-9a20-d24ce155478d {
+  0% {
+    transform: translateX(calc(0.16666666666666666 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  50% {
+    transform: translateX(calc(-0.08333333333333333 * min(1366px, 100vw)));
+    animation-timing-function: cubic-bezier(0.47, 0.03, 0.53, 0.97);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-LEFT-e7bd0a87-6d26-4846-a040-83cd327cc01a {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-52c4925c-fbf6-4df0-9782-496f2f0d7e83 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-b9b970d3-36f0-4b5e-a31e-f18f8d9f0d15 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-LEFT-87b7ce36-71eb-46b8-8938-d7e87b97646b {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-1d8333bf-1713-4193-86e1-b50e37975ad0 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pop-RIGHT-f8dbf964-612a-4422-9537-a1329f390292 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-RIGHT-1dee9c7f-b807-4e62-99f2-54d5f93d831a {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-49983c2c-afdc-43ff-a3b6-4f6956a151eb {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-71a5690f-fd67-4b58-b45d-7c232e07cacb {
+  0% {
+    transform: translate(0px, -80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-RIGHT-a8cb2538-44c6-4131-98c4-f353c6812712 {
+  0% {
+    transform: translate(80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-df755a05-1f63-432a-bbb4-b0b516c68e5e {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-bd53d611-187d-4439-b3bf-34f9b508986f {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-99281242-9f35-4637-9407-c0f6532b5f81 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    background-color: rgba(226, 226, 226, 0.05);
+  }
+
+  50% {
+    background-color: rgba(226, 226, 226, 0.1);
+  }
+
+  100% {
+    background-color: rgba(226, 226, 226, 0.05);
+  }
+}
+
+@keyframes baseline-LEFT-93a341c6-d3b9-4ff8-b755-1e224c9c7f74 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pan-LEFT-c6f6655b-977e-43c2-9af1-e08278004c18 {
+  0% {
+    transform: translate(-80px, 0px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-8477e068-c48b-41e5-869a-f9cf36b453d7 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-d42d5a6d-b5c2-482a-bb9f-53b89b962c77 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-a0d1e310-b1dc-4da1-bc42-5528999ba6c9 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-8a2f5a39-a674-4215-b6c6-bd7a520f1c3a {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-RIGHT-dbb34279-0cc7-4c0f-8897-2d6e7c517b9f {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-91568a87-715b-479b-9d70-a3bd5e289a59 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-92524408-f014-487c-90b0-d7542a27cb05 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-38197387-dbb1-49ef-bceb-38ee20749122 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-d4c54827-38fc-47c9-b115-e02be8509146 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-0ca30e15-bbf0-477c-a802-f723660e8627 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-8ddc69bf-0e24-493f-b6c3-aed517d5e164 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-LEFT-e9fba2a7-7987-4707-a9a7-b483014fcae5 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-26a598d2-b5b2-40c6-aa14-164de9e9b0d7 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes baseline-LEFT-3a471f70-2495-4ce6-987e-a0c1a5a03148 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-0aed9b86-36f1-47e3-88fc-92bc7d41cc05 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pop-LEFT-0d1d5c06-e5bd-4010-8415-45fb67ce9abc {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes rise-RIGHT-6a1e42de-c314-4af1-93b9-0b276e305144 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-88217a7b-d33c-44ee-a0dd-d74a25804ad4 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes rise-LEFT-6ef83dd9-d4ac-47d9-af7c-11ad7fc0e4e6 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes rise-LEFT-7209fa2c-8218-408f-998c-e44429907f89 {
+  0% {
+    transform: translate(0px, 80px);
+    animation-timing-function: cubic-bezier(0.4, 0.8, 0.74, 1);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+@keyframes pop-RIGHT-47dd2c04-282d-415d-b783-5dc4be019075 {
+  0% {
+    transform: scale(0);
+    animation-timing-function: cubic-bezier(0.52, 2.1, 0.43, 1.22);
+  }
+
+  35% {
+    transform: scale(0.937);
+    animation-timing-function: cubic-bezier(0.37, -0.25, 0.07, 2.15);
+  }
+
+  77% {
+    transform: scale(0.995);
+    animation-timing-function: cubic-bezier(0.28, -0.03, 0.48, 1.2);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes baseline-LEFT-beb9d510-6230-423e-a62b-60b9ef027cb4 {
+  0% {
+    transform: translate(0%, 100%);
+    animation-timing-function: cubic-bezier(0.15, 1.03, 0.34, 0.99);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
