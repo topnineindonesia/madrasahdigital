@@ -1,0 +1,881 @@
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/d585e0c0acfc4df0f74473bb69f53fc2.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/5532b815e980256198b37c10be07313a.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/89e01a6ba17eff39a71e04d111d70737.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/7577c90750d4be372669eb2db3376ee5.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/382e8b25e81764a2a2e8b189614d2033.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/a34cd17bdf5d66157f3e5916ebb1d9bc.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/382e8b25e81764a2a2e8b189614d2033.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/a34cd17bdf5d66157f3e5916ebb1d9bc.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/d585e0c0acfc4df0f74473bb69f53fc2.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/89e01a6ba17eff39a71e04d111d70737.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/d585e0c0acfc4df0f74473bb69f53fc2.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/89e01a6ba17eff39a71e04d111d70737.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/5532b815e980256198b37c10be07313a.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/7577c90750d4be372669eb2db3376ee5.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/5532b815e980256198b37c10be07313a.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/7577c90750d4be372669eb2db3376ee5.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/707cea0884e99a2a448ef82badaeab8a.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAFdJu1N8sU-0;
+  src: url(assets/fonts/11a99f6eca05af69910c773de643f584.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/fcc7b8c7fad442649ca552dce8f94418.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/7011f0066d6763da5cca149720035c7f.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/e6d582177fe4437cb7cf52d427c2820e.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/c4aa29e7d5a1a461026538590ae2f1bd.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/cfe1e982804e996e96bb4b031055a5c7.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/e3be19fb48d79fbc259e1d6c57b9107c.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/cfe1e982804e996e96bb4b031055a5c7.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/e3be19fb48d79fbc259e1d6c57b9107c.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/cfe1e982804e996e96bb4b031055a5c7.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/e3be19fb48d79fbc259e1d6c57b9107c.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/fcc7b8c7fad442649ca552dce8f94418.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/e6d582177fe4437cb7cf52d427c2820e.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/7011f0066d6763da5cca149720035c7f.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/c4aa29e7d5a1a461026538590ae2f1bd.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/c74cdf1496849fede7140935039c2392.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/5dbd9457e2671b54c6df5ee794ed9b36.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/c71906e9925fb34456a39b70b8648c69.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAFdJoYMYSc-0;
+  src: url(assets/fonts/1872b2277f94b1c5acf98700a1a1c03b.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YACgEcnJpjs-0;
+  src: url(assets/fonts/99ddc70a8ffa326837e6983f9aed0872.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/881b8da5ad9b82b143ab37dcdf069c4c.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/527cd5a6be21d4e008281f52ae03e6de.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/e8e51b9875286101e41224d1f8f57146.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/ccfa3463500b1d2425324b3a1a304119.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/b9d3823184fbb6d5a9d5804d114b70ba.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/b33f6386bd461ec492dd56577e13136c.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/b09eaaf9341f54a150766b674dd4dd66.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/c076bd8c37058ebdedabdda5c2d6b111.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/9f211f1e580dd0c34c98242b67b454a1.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/2ffd130498e37c9f925c671e0342f1e6.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/b13d468f88f904752a71651083120b9b.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/2f9ca4e3b153c05839a1665e2deae5bd.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/10bae089b2dee90878d1d146921cad11.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/5300a700676e268371e3693408559b01.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/5da2f7e7b5289e2ae1f44d0ac2886371.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/b76554414c3fa738aad9e680f54c765d.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/5c07b773952ecd9eb4715de302811a45.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAFdtQi73Xs-0;
+  src: url(assets/fonts/82e327672f883fc5445ed4de237127fd.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/127f1f8810cbf9b7088c5a9bd8005fe3.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/569086aaaf15784082758d6a39803022.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/7dc66bd302ac04c9bf96320650ec1e6d.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/86d1bc8611ae370c27a8dc6f32c38066.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/127f1f8810cbf9b7088c5a9bd8005fe3.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/7dc66bd302ac04c9bf96320650ec1e6d.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/127f1f8810cbf9b7088c5a9bd8005fe3.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/7dc66bd302ac04c9bf96320650ec1e6d.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/127f1f8810cbf9b7088c5a9bd8005fe3.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/7dc66bd302ac04c9bf96320650ec1e6d.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/127f1f8810cbf9b7088c5a9bd8005fe3.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/7dc66bd302ac04c9bf96320650ec1e6d.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/569086aaaf15784082758d6a39803022.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/86d1bc8611ae370c27a8dc6f32c38066.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/569086aaaf15784082758d6a39803022.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/86d1bc8611ae370c27a8dc6f32c38066.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/569086aaaf15784082758d6a39803022.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAEp1FLgsF4-0;
+  src: url(assets/fonts/86d1bc8611ae370c27a8dc6f32c38066.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c411d01677832c1b6f80e11045c3e17.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c612a870b96ecbc73de2d0a0f12bbc9.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/861f9ab93181645328e6d8dbadc4426d.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/805c6830b7df13aa353017b00c258e82.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c411d01677832c1b6f80e11045c3e17.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/861f9ab93181645328e6d8dbadc4426d.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c411d01677832c1b6f80e11045c3e17.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/861f9ab93181645328e6d8dbadc4426d.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c411d01677832c1b6f80e11045c3e17.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/861f9ab93181645328e6d8dbadc4426d.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c411d01677832c1b6f80e11045c3e17.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/861f9ab93181645328e6d8dbadc4426d.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c612a870b96ecbc73de2d0a0f12bbc9.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/805c6830b7df13aa353017b00c258e82.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c612a870b96ecbc73de2d0a0f12bbc9.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/805c6830b7df13aa353017b00c258e82.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/5c612a870b96ecbc73de2d0a0f12bbc9.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YAEp1C81UGk-0;
+  src: url(assets/fonts/805c6830b7df13aa353017b00c258e82.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2);
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2);
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2);
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2);
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2);
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2);
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2);
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: YACgEZ1cb1Q-0;
+  src: url(assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2);
+  font-style: italic;
+  font-weight: 900;
+}
